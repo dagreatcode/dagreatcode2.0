@@ -1,0 +1,23 @@
+{
+  "name": "dagreatcode2.0",
+  "version": "1.0.0",
+  "description": "DaGreatCodeCompanyWebSite",
+  "main": "server.js",
+  "scripts": {
+    "test": "*",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dagreatcode/dagreatcode2.0.git"
+  },
+  "keywords": [
+    "*"
+  ],
+  "author": "Vincent Kendrick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dagreatcode/dagreatcode2.0/issues"
+  },
+  "homepage": "https://github.com/dagreatcode/dagreatcode2.0#readme"
+}
